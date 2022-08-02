@@ -37,3 +37,9 @@ The objective of rearangging the corner points is to warp perspective so it will
   <img src="https://user-images.githubusercontent.com/93776676/182129996-85450ff6-801a-4129-87d7-cc50e549a7fd.png">
 </p>
 
+All Detection:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93776676/182361851-eb697404-137a-4e25-84c8-ec40e17d3505.png">
+</p>
+
