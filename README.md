@@ -5,7 +5,7 @@ This repository is about creating script that can detect color tag and identify 
 The example of the color tag is as shown below.
 
 <p align="center">
-  <img width="300" height="400" src="https://lh3.googleusercontent.com/m_8tr_KDfkfT7JGIwr10uUWgAJGUJVIHaL7kj0pT4VJbIxyvKQWWE9mrxXj4FvHu3EcwCwPldQiNP-Y=w1898-h830">
+  <img  src="https://user-images.githubusercontent.com/93776676/182359353-5f55887d-508c-452e-aa0b-c150574a548f.jpg">
 </p>
 
 The pattern for each object will be different. The test images used for this projects are shown below.
