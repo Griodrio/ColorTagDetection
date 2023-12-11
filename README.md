@@ -2,6 +2,14 @@
 
 This repository is about creating script that can detect color tag and identify the object based on the pattern on the color tag.
 
+To run the script simply use the code below
+```
+python -m pip install -r requirements.txt
+python ColorDetection.py
+```
+
+# Explanation
+
 The example of the color tag is as shown below.
 
 <p align="center">

@@ -53,7 +53,7 @@ def FindTag(contours):
     return Points
 
 initializeTrackbars()
-Tupian = glob.glob('ObjectWithTag2/Test/pop/*.jpeg')
+Tupian = glob.glob('ObjectWithTag2/*.jpg')
 print(Tupian)
 
 while True:
